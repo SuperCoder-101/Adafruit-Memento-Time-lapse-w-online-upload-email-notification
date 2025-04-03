@@ -8,11 +8,13 @@ The main code.py script in this repository is a modified version of example code
 
 Adafruit Memento Time-lapse w/ Online Upload & Email Notification
 
-A Quick Note
+A Quick Note - This repository is a read-only resource.
 
 This was created as part of a work project, and I won’t be actively maintaining it moving forward.
+  
+Pull requests, issues, and comments are disabled intentionally.  
 
-Pull requests and GitHub Issues are disabled for that reason.
+Feel free to copy or download the files for personal use!
 
 If you run into trouble getting this to work, please refer to the links and guides mentioned in my Playground write-up. I’ve tried to make everything beginner-friendly and well-documented.
 
