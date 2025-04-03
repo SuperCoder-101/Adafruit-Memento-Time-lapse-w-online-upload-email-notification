@@ -1,4 +1,5 @@
 About This Repository
+
 The files and folders in this repository are provided as a working example of what your Adafruit Memento board should look like once you've installed CircuitPython and copied over the necessary code and libraries.
 
 I recommend using the pre-zipped lib/ folder included here — it contains all the required CircuitPython libraries for this project, so you don’t have to install them individually.
@@ -8,6 +9,7 @@ The main code.py script in this repository is a modified version of example code
 Adafruit Memento Time-lapse w/ Online Upload & Email Notification
 
 A Quick Note
+
 This was created as part of a work project, and I won’t be actively maintaining it moving forward.
 
 Pull requests and GitHub Issues are disabled for that reason.
